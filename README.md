@@ -98,3 +98,9 @@ Several examples of profitable trades:
 - https://bscscan.com/token/0xba42fd16cee5e860c2ffc1a3ff1d37e1802bbffa?a=0x3c1acf05c4dcc8ef94cf7ff48f64f5757aafb9db
 - https://bscscan.com/token/0xd06f0b5b04f3bc0062c69d73d98c5c9ccfebe9bb?a=0x3c1acf05c4dcc8ef94cf7ff48f64f5757aafb9db
 - etc...
+
+## Related links
+
+- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
+- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
+- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
